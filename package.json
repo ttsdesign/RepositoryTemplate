@@ -1,0 +1,17 @@
+{
+	"name": "org.tts.js.core",
+	"version": "1.0",
+	"directories": {
+		"tests": "./tests",
+		"dist": "./dist"
+	},
+	"targets": [
+		"all",
+		"lib",
+		"tests",
+		"examples",
+		"docs",
+		"clean"
+	]
+
+}
